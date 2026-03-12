@@ -1,0 +1,12 @@
+-- Phase 20.d: Percentile bands (quartiles)
+-- Purpose:
+--   Convert continuous sustainability percentiles into interpretable
+--   bands for clearer Tableau filters, color legends, and narratives.
+--
+-- Notes:
+--   - Bands computed within each scenario_key
+--
+-- Author: Tom Nevar
+-- Created: 2026
+
+-- Phase 20/

@@ -1,0 +1,12 @@
+ALTER TABLE state_financial_inputs
+    DROP COLUMN sustainability_ratio_nominal,
+    DROP COLUMN sustainability_ratio_adjusted,
+    DROP COLUMN margin_hourly_nominal,
+    DROP COLUMN margin_hourly_adjusted,
+    DROP COLUMN pt_wage_capture_ratio_nominal,
+    DROP COLUMN pt_wage_capture_ratio_adjusted,
+    DROP COLUMN sustainability_tier_adjusted,
+    DROP COLUMN pt_capture_tier_adjusted,
+	DROP COLUMN units_per_hour, 
+	DROP COLUMN hourly_remibursement_nominal, 
+	DROP COLUMN hourly_reimbursement_adjusted; 

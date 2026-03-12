@@ -1,0 +1,1 @@
+DROP TABLE state_population_2023
