@@ -72,12 +72,17 @@ Key derived metrics include:
 ### Dashboard 1 — Sustainability Overview
 This dashboard shows modeled outpatient PT sustainability across states under baseline assumptions, combining geographic variation, workforce pressure, margin per hour, and PT compensation share of revenue. In general, states where PT compensation consumes a larger share of modeled revenue tend to appear less sustainable, although workforce pressure and modeled margin do not move in perfect lockstep.
 
+![Sustainability Overview](tableau_screenshots/01_dashboard_overview.png)
+
 ### Dashboard 2 — State Rankings
 This dashboard isolates the top and bottom states by sustainability index under baseline assumptions, making it easier to compare the strongest and weakest modeled outpatient PT environments directly. It serves as a supporting ranking view to the main dashboard and highlights the spread between leading, middle, and trailing states.
+
+![State Rankings](tableau_screenshots/05_rankings_dashboard.png)
 
 ### RPP-Adjusted Compensation View
 This chart ranks states by **RPP-adjusted PT compensation per hour**, giving a purchasing-power lens on therapist compensation rather than a revenue-share lens. States with RPP above 100 generally appear lower in the ranking, with Alaska standing out as a notable exception to that broader pattern and California not appearing until roughly the middle of the table.
 
+![RPP-Adjusted Compensation](tableau_screenshots/06_rpp_adjusted_compensation.png)
 ---
 
 ## Key Takeaways
